@@ -14,6 +14,7 @@ Introduce a basic body structure into the simulation.
 Implement the directed graph genotype-to-phenotype conversion for creating 3D creatures, as described in Karl Sims's paper "Evolving 3D Morphology and Behavior by Competition."
 
 *Tasks:*
+
 Develop the genotype-to-phenotype mapping for 3D creature creation.
 
 **Step 3: Fitness Function and Iterative Simulations.**
