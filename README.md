@@ -34,7 +34,7 @@ This step procedurally generate random bodies and evaluate the bodies in simulat
 Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and masses.
 
 *Tasks:*
-1. Introduce mutations to the body and wing sizes and masses.
+1. Introduce mutations to the body and masses.
 2. Evaluate the impact of these mutations on the fitness scores across generations.
 3. Address simulation stability issues arising from extreme mutations.
 
