@@ -34,3 +34,7 @@ def build_unit(parent, name, pos):
     geom_slide_plate = ET.SubElement(slide_plate, "geom", type = "box", name = f"{name}slide_plate", size ="0.1 1 1", rgba = "0 0 0 1")
 
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
