@@ -25,7 +25,7 @@ This step procedurally generate random bodies and evaluate the bodies in simulat
 1. Modify the fitness function to favor the distance traveled.
 2. Using the best feature with highest fittness score as a baseline to do subsequent evolutions. 
 
-**Step 4: Evolutionary Mutations and Stability. **
+**Step 4: Evolutionary Mutations and Stability.**
 *Objective:* 
 Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and wing sizes and masses.
 
