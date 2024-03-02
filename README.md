@@ -1,5 +1,5 @@
 # ArtificialLife Project
-**Step 1:**
+**Step 1: Basic Simulation with Mujoco**
 
 *Objective:* 
 Introduce a basic body structure into the simulation.
@@ -8,7 +8,7 @@ Introduce a basic body structure into the simulation.
 1. Create a simulated body in mujoco.
 2. Implement movement capabilities.
 
-**Step 2:**
+**Step 2: Genotype to Phenotype**
 
 *Objective:* 
 Implement the directed graph genotype-to-phenotype conversion for creating 3D creatures, as described in Karl Sims's paper "Evolving 3D Morphology and Behavior by Competition."
