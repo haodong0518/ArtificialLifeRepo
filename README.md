@@ -31,7 +31,7 @@ This step procedurally generate random bodies and evaluate the bodies in simulat
 **Step 4: Evolutionary Mutations and Stability.**
 
 *Objective:* 
-Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and wing sizes and masses.
+Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and masses.
 
 *Tasks:*
 1. Introduce mutations to the body and wing sizes and masses.
