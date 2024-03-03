@@ -31,10 +31,11 @@ This step procedurally generate random bodies and evaluate the bodies in simulat
 **Step 4: Evolutionary Mutations and Stability.**
 
 *Objective:* 
-Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and masses.
+I built a Hand Shearing Auxetics (HSA) as a basic unit. This step procedurally generate different configurations of HSA, and explore which kind of configuration will move faster. 
 
 *Tasks:*
-1. Introduce mutations to the body and masses.
-2. Evaluate the impact of these mutations on the fitness scores across generations.
-3. Address simulation stability issues arising from extreme mutations.
+1. Programming an evoluntionary process, keep adding HSA unit in each iteration.
+2. Delete the configurations will lower fitness scores.
+3. Randomly add a HSA unit in different positions. 
+   
 
