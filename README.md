@@ -35,7 +35,7 @@ I built a Hand Shearing Auxetics (HSA) as a basic unit. This step procedurally g
 
 *Tasks:*
 1. Programming an evoluntionary process, keep adding HSA unit in each iteration.
-2. Delete the configurations will lower fitness scores.
+2. Delete the configurations with lower fitness scores.
 3. Randomly add a HSA unit in different positions. 
    
 
